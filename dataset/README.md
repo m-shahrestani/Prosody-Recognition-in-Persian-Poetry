@@ -29,7 +29,7 @@ Distribution of the number of poems with the same prosody in the P3R
 Copy the following code into a Jupyter notebook.  
 ```
 import pandas as pd
-url = "https://raw.githubusercontent.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/dataset/P3R.csv"
+url = "https://media.githubusercontent.com/media/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/master/dataset/P3R.csv"
 df = pd.read_csv(url)
 df
 ```
