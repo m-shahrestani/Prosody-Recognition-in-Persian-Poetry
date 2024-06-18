@@ -55,13 +55,13 @@ The high-level structures of models:
 
 ## Model Training 
 
-Check the notebooks for retraining the models in [`notebooks/`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/notebooks).  
+Check the notebooks for retraining the models in [`notebooks/`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/tree/master/notebooks).  
 You can see the list of code files for the methods below.   
-- [x] Transformer-based method: [`notebooks/parsbertmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/notebooks/parsbertmodel.ipynb)  
-- [x] Grapheme-to-phoneme-mapping-based method: [`notebooks/g2p_parsbertmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/notebooks/g2p_parsbertmodel.ipynb)  
-- [x] Sequence-to-sequence method: [`notebooks/seq2seqmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/notebooks/seq2seqmodel.ipynb)  
-- [x] Sequence-to-sequence model with phonetic sequences: [`notebooks/g2p_seq2seqmodel.ipynb`](https://github.com/m-shahrestani/https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/notebooks/g2p_seq2seqmodel.ipynb)  
-- [x] Hybrid method: [`notebooks/concat_g2p_parsbertmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/notebooks/concat_g2p_parsbertmodel.ipynb)  
+- [x] Transformer-based method: [`notebooks/parsbertmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/master/notebooks/parsbertmodel.ipynb)  
+- [x] Grapheme-to-phoneme-mapping-based method: [`notebooks/g2p_parsbertmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/master/notebooks/g2p_parsbertmodel.ipynb)  
+- [x] Sequence-to-sequence method: [`notebooks/seq2seqmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/master/notebooks/seq2seqmodel.ipynb)  
+- [x] Sequence-to-sequence model with phonetic sequences: [`notebooks/g2p_seq2seqmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/master/notebooks/g2p_seq2seqmodel.ipynb)  
+- [x] Hybrid method: [`notebooks/concat_g2p_parsbertmodel.ipynb`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/master/notebooks/concat_g2p_parsbertmodel.ipynb)  
 
 ## Results
 We acheive the following results: 
@@ -213,7 +213,7 @@ We acheive the following results:
 
 ## Dataset 
 
-The P3R (Persian Poetry Prosody Recognition) dataset is in the file [`dataset/P3R.csv`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/main/dataset/P3R.csv).  
+The P3R (Persian Poetry Prosody Recognition) dataset is in the file [`dataset/P3R.csv`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/tree/master/dataset/P3R.csv).  
 
 <p align="center">
   <img src = "img/newds.png"/>
