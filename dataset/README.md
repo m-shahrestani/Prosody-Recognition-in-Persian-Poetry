@@ -21,9 +21,9 @@ Distribution of the number of poems with the same prosody in the P3R
 </p>
 
 ## Files descriptions  
-[`dataset/P3R.csv`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/main/dataset/P3R.csv) is the P3R dataset.  
-[`dataset/prosodies.csv`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/main/dataset/prosodies.csv) is the mapping Prosody to Prosody ID.  
-[`dataset/prosodies.txt`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/main/dataset/prosodies.txt) is the identifiers for each meter.  
+[`dataset/P3R.csv`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/master/dataset/P3R.csv) is the P3R dataset.  
+[`dataset/prosodies.csv`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/master/dataset/prosodies.csv) is the mapping Prosody to Prosody ID.  
+[`dataset/prosodies.txt`](https://github.com/m-shahrestani/Prosody-Recognition-in-Persian-Poetry/blob/master/dataset/prosodies.txt) is the identifiers for each meter.  
 
 ## Usage  
 Copy the following code into a Jupyter notebook.  
@@ -36,4 +36,11 @@ df
 
 ## License  
 
-CC BY 4.0
+CC BY 4.0  
+
+<!--- 
+## Reference 
+```
+
+```
+--> 
